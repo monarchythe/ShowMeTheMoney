@@ -106,7 +106,8 @@ This project was **presented and defended** before a class of **30 students and 
 
 ---
 
-#tags: #AWS #CloudArchitecture #Serverless #AccountingSystem #ElectronJS #CloudSecurity #AWSProjects #ArchitectureKata #SolutionArchitecture
+## tags: 
+#AWS #CloudArchitecture #Serverless #AccountingSystem #ElectronJS #CloudSecurity #AWSProjects #ArchitectureKata #SolutionArchitecture
 
 ---
 
