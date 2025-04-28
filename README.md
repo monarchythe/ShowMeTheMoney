@@ -13,7 +13,7 @@ The project was focused on designing a **secure, scalable, reliable, and cost-ef
 
 This project was presented to a **class of 30 students and the professor** as part of a professional evaluation.
 
-> **Note:** This is a conceptual architecture and design report. The system was architected, diagrammed, and documented but not implemented.
+> **Note:** This is a conceptual architecture and design solution. The system was architected, diagrammed, and documented but not implemented.
 
 ---
 
