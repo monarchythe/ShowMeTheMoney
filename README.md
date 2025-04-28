@@ -64,9 +64,11 @@ The college needed a **new desktop-based accounting solution** that:
 
 ## Architecture Diagram
 
-> *(Include your project diagram image here — you can export the diagram from your presentation or recreate it in Lucidchart, draw.io, etc.)*
+> ![Architecture Diagram](./AWS_Arch_Diag.png)
 
-![Architecture Diagram](./diagram.png)
+## Workflow Diagram
+
+> ![Architecture Diagram](./Workflow_Diag.png)
 
 
 ## Key Features
