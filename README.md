@@ -11,7 +11,7 @@
 
 The project was focused on designing a **secure, scalable, reliable, and cost-effective system**, while strictly adhering to key client requirements — especially the constraint that **the system must not be web-based**.
 
-This project was presented to a **class of 26 students and the professor** as part of a professional evaluation.
+This project was presented to a **class of 39 students and the professor** as part of a professional evaluation.
 
 > **Note:** This is a conceptual architecture and design solution. The system was architected, diagrammed, and documented but not implemented. The detailed Solution Report is attached in this repo by the name of **ShowMeTheMoney_Group_10.pdf** 
 
