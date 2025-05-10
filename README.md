@@ -90,7 +90,7 @@ The college needed a **new desktop-based accounting solution** that:
 
 ## Presentation Validation
 
-This project was **presented and defended** before a class of **26 students and the professor** during the course CS7346 as part of an architectural kata assignment.
+This project was **presented and defended** before a class of **39 students and the professor** during the course CS7346 as part of an architectural kata assignment.
 
 
 ## Conclusion
